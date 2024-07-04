@@ -16,3 +16,4 @@ streamlit run str.py
 
 # Image
 
+<img src="./img/1.png">
